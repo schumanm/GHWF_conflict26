@@ -1,4 +1,6 @@
-HERE WE GO AGAINname = input('Name: ')
-print('Hello!, {THEAFEGWEPKNWNV}!'.format(name))
+
+name = input('Name: ')
+IM EDITING THIS LINE TO FORCE A ISSUEprint('Hello!, {}!'.format(name))
+
 
 
